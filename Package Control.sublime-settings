@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"Behat",
+		"Behat Snippets",
+		"Cucumber",
+		"Gherkin (Cucumber) Formatter",
+		"RailsCasts Colour Scheme",
+		"RailsGoToSpec",
+		"RSpec",
+		"RSpecNavigator",
+		"Syntax Highlighting for Sass"
+	]
+}
